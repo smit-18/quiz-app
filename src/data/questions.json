@@ -1,0 +1,47 @@
+[
+  {
+    "questionText": "What is React.js?",
+    "answerOptions": [
+      { "answerText": "Open-source JavaScript back-end library", "isCorrect": false },
+      { "answerText": "JavaScript front-end library to create a database", "isCorrect": false },
+      { "answerText": "Free and open-source JavaScript front-end library", "isCorrect": true },
+      { "answerText": "None of the mentioned", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which of the following acts as the input of a class-based component?",
+    "answerOptions": [
+      { "answerText": "Class", "isCorrect": false },
+      { "answerText": "Props", "isCorrect": true },
+      { "answerText": "Factory", "isCorrect": false },
+      { "answerText": "None of the mentioned", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "React.js is written in which of the following language?",
+    "answerOptions": [
+      { "answerText": "C", "isCorrect": false },
+      { "answerText": "C++", "isCorrect": false },
+      { "answerText": "Javascript", "isCorrect": true },
+      { "answerText": "Java", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which of the following command is used to Install create-react-app?",
+    "answerOptions": [
+      { "answerText": "npm install create-react-app", "isCorrect": false },
+      { "answerText": "npm install -f create-react-app", "isCorrect": false },
+      { "answerText": "npm install -g create-react-app", "isCorrect": true },
+      { "answerText": "install -g create-react-app", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "How many elements can a valid react component return?",
+    "answerOptions": [
+      { "answerText": "React does not return element", "isCorrect": false },
+      { "answerText": "1 Element", "isCorrect": true },
+      { "answerText": "More than 1 element", "isCorrect": false },
+      { "answerText": "None of the mentioned", "isCorrect": false }
+    ]
+  }
+]
